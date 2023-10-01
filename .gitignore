@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Compiled output
+/dist/
+/out/
+/build/
+/.nuxt/
+/.next/
+/nuxt/
+/out-tsc/
+/dist-server/
+/build-server/
+/.pnp/
+.pnp.js
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# dotenv environment variables file
+.env
+
+# Yarn
+.yarn/
+.yarnrc
+.yarn-integrity
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
